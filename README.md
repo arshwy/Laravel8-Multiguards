@@ -1,2 +1,2 @@
-# Laravel8-Multiguards
-Authentication for Multiguards in Laravel PHP
+# laravel-multiguards-authentication
+Create Multi-guards for your Laravel Application
